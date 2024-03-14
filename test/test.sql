@@ -1,0 +1,1 @@
+select * from table2 limit 10;
